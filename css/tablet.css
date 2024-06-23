@@ -12,4 +12,27 @@
   .burger{
     display: block;
   }
+  /* section1 */
+  .section1{
+    padding: 24px;
+  }
+  .section1_img_article{
+  
+    width: 696px;
+    height: 320px;
+  }
+  .section1_article{
+    display: block;
+    text-align: center;
+    width: 696px;
+    height: 156px;
+  }
+  .section1_h2{
+    width: 696px;
+    height: 64px;
+  }
+  .section1_p{
+    width: 696px;
+    height: 72px;
+  }
 }

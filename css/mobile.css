@@ -3,4 +3,24 @@
   header{
     padding-inline: 8px;
   }
+  /* section1 */
+  .section1{
+    padding: 8px;
+  }
+  .section1_article{
+    margin-top: 20px;
+    width: 464px;
+    height: 160px;
+  }
+  .section1_h2{
+    width: 464px;
+    height: 52px;
+    font-size: 18px;
+  }
+  .section1_p{
+    width: 464px;
+    height: 72px;
+    font-size: 18px;
+  }
+
 }

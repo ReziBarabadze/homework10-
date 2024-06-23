@@ -3,4 +3,27 @@
   header{
     padding-inline: 32px;
   }
+  /* section1 */
+  .section1{
+    flex-wrap: wrap;
+    padding: 32px;
+  }
+  .section1_img_article{
+    width: 960px;
+    height: 480px;
+  }
+  .section1_article{
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 40px;  
+  }
+  .section1_h2{
+    width: 100%;
+  }
+  .section1_p{
+    width: 100%;
+  }
 }
